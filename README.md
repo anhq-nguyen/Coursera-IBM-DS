@@ -32,10 +32,21 @@
 
 <br>
 
+
 ## **Course 5: Python Project for Data Science ([Cetificate](https://www.coursera.org/account/accomplishments/verify/6C9CSSDSE25Y))**
 
 1. [Final Assignment](Course%205/Final%20Assignment.ipynb)
 
-## **Course 6: Databases and SQL for Data Science with Python (Certificate)**
+<br>
+
+
+## **Course 6: Databases and SQL for Data Science with Python ([Certificate](https://www.coursera.org/account/accomplishments/verify/8Y8K7Y93ADJR))**
 
 1. [Final Assignment](Course%206/Final%20assignment.ipynb)
+2. [Honor Assignment](Course%206/Honor%20Assignment.ipynb)
+
+<br>
+
+## **Course 7: Data Analysis with Python ([Certificate](https://www.coursera.org/account/accomplishments/verify/8U2L3JVUY66A))**
+
+1. [Final Assignment](Course%207/Final%20Assignment.ipynb)
