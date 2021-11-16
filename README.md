@@ -50,3 +50,10 @@
 ## **Course 7: Data Analysis with Python ([Certificate](https://www.coursera.org/account/accomplishments/verify/8U2L3JVUY66A))**
 
 1. [Final Assignment](Course%207/Final%20Assignment.ipynb)
+
+<br>
+
+## **Course 8: Data Visualization with Python([Certificate](https://www.coursera.org/account/accomplishments/verify/3XBUQDCP6ZNM))**
+
+1. [Final Assignment](Course%208/Final%20Assignment.py)
+
