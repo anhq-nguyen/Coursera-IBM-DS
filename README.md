@@ -7,8 +7,16 @@
 
 ## Table of Contents
 
-- [Course 1: What is Data Science? (Certificate)](#course-1-what-is-data-science-certificate)
-- [Course 2: Tools for Data Science (Certificate)](#course-2-tools-for-data-science-certificate)
+- [**Course 1: What is Data Science?**](#course-1-what-is-data-science-certificate)
+- [**Course 2: Tools for Data Science**](#course-2-tools-for-data-science-certificate)
+- [**Course 3: Data Science Methodology**](#course-3-data-science-methodology-certificate)
+- [**Course 4: Python for Data Science, AI & Development**](#course-4-python-for-data-science-ai--development-certificate)
+- [**Course 5: Python Project for Data Science**](#course-5-python-project-for-data-science-cetificate)
+- [**Course 6: Databases and SQL for Data Science with Python**](#course-6-databases-and-sql-for-data-science-with-python-certificate)
+- [**Course 7: Data Analysis with Python**](#course-7-data-analysis-with-python-certificate)
+- [**Course 8: Data Visualization with Python**](#course-8-data-visualization-with-python-certificate)
+- [**Course 9: Machine Learning with Python**](#course-9-machine-learning-with-python-certificate)
+- [**Course 10: Applied Data Science Capstone**](#course-10-applied-data-science-capstone-certificate)
 
 <br>
 
@@ -65,3 +73,11 @@
 ## **Course 9: Machine Learning with Python ([Certificate](https://www.coursera.org/account/accomplishments/verify/T7X6HCV4SKJG))**
 
 1. [Final Assignment](Course%209/Final%20Assignment.ipynb)
+
+<br>
+
+
+## **Course 10: Applied Data Science Capstone ([Certificate](https://www.coursera.org/account/accomplishments/verify/ZVN5EBZW9DV8))**
+
+1. [Final Assignment](Course%2010/Final%20Assignment.pdf)
+2. [All files](Course%2010/)
